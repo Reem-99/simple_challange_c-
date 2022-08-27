@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\Programming1hw\Programming1hw\bin\Debug\Programming1hw.exe.config
+C:\Users\Lenovo\Desktop\Programming1hw\Programming1hw\bin\Debug\Programming1hw.exe
+C:\Users\Lenovo\Desktop\Programming1hw\Programming1hw\bin\Debug\Programming1hw.pdb
+C:\Users\Lenovo\Desktop\Programming1hw\Programming1hw\obj\Debug\Programming1hw.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Programming1hw\Programming1hw\obj\Debug\Programming1hw.exe
+C:\Users\Lenovo\Desktop\Programming1hw\Programming1hw\obj\Debug\Programming1hw.pdb
